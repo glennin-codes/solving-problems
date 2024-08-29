@@ -47,7 +47,6 @@ Space complexity refers to the amount of memory space required by the algorithm 
     Example: Recursive binary search.
 
    - O(n^2) - Quadratic Space:
-
     The memory required grows quadratically with the input size.
     Example: A 2D matrix of size n x n.
 
