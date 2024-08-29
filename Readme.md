@@ -95,4 +95,4 @@ The goal is to design algorithms that are as efficient as possible, both in term
 
 
 ### Problem 1
-[1. Two Sum solution.]('./src/main.rs')
+[1. Two Sum solution.](./src/main.rs)
