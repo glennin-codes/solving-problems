@@ -92,3 +92,7 @@ Focus on the worst-case scenario when evaluating algorithms.
 The goal is to design algorithms that are as efficient as possible, both in terms of time and space.
 
 *Real-World Implications: Understanding time and space complexities helps predict performance, scalability, and  memory usage, which is crucial for optimizing and choosing algorithms for real-world applications*.
+
+
+### Problem 1
+[1. Two Sum solution.]('./src/main.rs')
