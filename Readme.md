@@ -26,9 +26,8 @@ Time complexity refers to the amount of time an algorithm takes to complete as a
     The time required doubles with each additional element in the input. Usually associated with brute-force algorithms.
     Example: Recursive algorithms that solve a problem by splitting it into subproblems (e.g., the naive solution to the Traveling Salesman Problem).
 
-    - O(n!) - Factorial Time:
+   - *O(n!) - Factorial Time*:
     The time required grows factorially with the input size. This is usually the case with permutations or combinations of all elements.
-
     Example: Brute-force algorithms generating all permutations of a set.
     
 ##  Space Complexity.
