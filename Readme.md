@@ -26,8 +26,9 @@ Time complexity refers to the amount of time an algorithm takes to complete as a
     The time required doubles with each additional element in the input. Usually associated with brute-force algorithms.
     Example: Recursive algorithms that solve a problem by splitting it into subproblems (e.g., the naive solution to the Traveling Salesman Problem).
 
-    - *O(n!) - Factorial Time*:
+    - O(n!) - Factorial Time:
     The time required grows factorially with the input size. This is usually the case with permutations or combinations of all elements.
+
     Example: Brute-force algorithms generating all permutations of a set.
     
 ##  Space Complexity.
@@ -76,7 +77,7 @@ When analyzing an algorithm:
    -  Input Size (n): How does the algorithm scale as the input size increases?
    - Focus on Growth: Big-O notation ignores constant factors and lower-order terms, focusing on how the algorithm scales with large inputs.
 
-    *Real-World Implications: Understanding time and space complexities helps predict performance, scalability, and  memory usage, which is crucial for optimizing and choosing algorithms for real-world applications*.
+
 
 ### Tips for Calculating Time and Space Complexities
 
@@ -90,3 +91,5 @@ Time Complexity tells you how the execution time grows as the input size grows.
 Space Complexity tells you how the memory usage grows as the input size grows.
 Focus on the worst-case scenario when evaluating algorithms.
 The goal is to design algorithms that are as efficient as possible, both in terms of time and space.
+
+*Real-World Implications: Understanding time and space complexities helps predict performance, scalability, and  memory usage, which is crucial for optimizing and choosing algorithms for real-world applications*.
